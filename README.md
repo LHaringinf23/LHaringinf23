@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Liam Haring!
+- 👀 I’m interested in computer science and programming/coding.
+- 🌱 I’m currently enrolled in an apprenticeship as an ICT System Engineer.
